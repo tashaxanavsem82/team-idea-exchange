@@ -6,7 +6,7 @@ We welcome contributions from everyone! Here’s a quick guide to help you get s
 1. **Fork the repository.**
 2. **Create your feature branch** (`git checkout -b feature/AmazingFeature`).
 3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`).
-4. **Ensure that your code passes all tests** before pushing your changes.
+4. **Ensure that your code passes all tests and adheres to the project's coding standards** before pushing your changes.
 5. **Push to your branch** (`git push origin feature/AmazingFeature`).
 6. **Open a Pull Request** to merge your changes into the main branch.
 
