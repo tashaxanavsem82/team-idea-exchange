@@ -10,6 +10,12 @@ We welcome contributions from everyone! Here’s a quick guide to help you get s
 5. **Push to your branch** (`git push origin feature/AmazingFeature`).
 6. **Open a Pull Request** to merge your changes into the main branch.
 
+## Code Formatting
+Please ensure that your code meets the following formatting guidelines:
+- Follow the established coding style of the project.
+- Use clear and descriptive variable names.
+- Include comments as necessary to explain complex logic.
+
 ## Reporting Issues
 If you find a bug or have suggestions for improvements, please open an issue with a detailed description of the problem and any relevant code snippets.
 
